@@ -41,6 +41,6 @@ I enjoy learning new technologies and improving my skills through real projects.
 ---
 
 ### 📫 Contact
-<li> 📄 Resum: [Resume.pdf](https://github.com/user-attachments/files/25837963/Resume.pdf) <br>
+<li> 📄 Resum: (https://github.com/user-attachments/files/25837963/Resume.pdf) <br>
 <li> 📧 Email: Chomchanokruaen@gmail.com <br>
 <li> 📞 Phone: 0636152415
