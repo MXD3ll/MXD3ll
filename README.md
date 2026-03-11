@@ -19,7 +19,6 @@ I enjoy learning new technologies and improving my skills through real projects.
 
 <li> Kotlin
 <li> Android Studio
-<li> Jetpack Compose
 
 🌐 **Frontend**
 
