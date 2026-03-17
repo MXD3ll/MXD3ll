@@ -21,7 +21,7 @@ I enjoy learning new technologies and improving my skills through real projects.
 <li> Android Studio
 
 🌐 **Frontend**
-
+<li> React
 <li>  HTML
 <li> CSS
 <li> JavaScript
